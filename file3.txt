@@ -1,6 +1,8 @@
 feature-2
 feature-2
 feature-2
+fix-release1-2
+fix-release1-2
 feature-2
 feature-3   feature-4
 feature-2
