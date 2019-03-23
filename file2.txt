@@ -3,7 +3,9 @@ feature-2
 content2
 content2
 content2
+feature-3
 feature-2
+feature-3
 fix-release1
 content2
 content2
