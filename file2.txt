@@ -1,6 +1,7 @@
 content2
 feature-2
 content2
+fix-release1-2
 content2
 content2
 release-1-fix1
